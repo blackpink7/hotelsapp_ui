@@ -160,7 +160,7 @@ class _HomePageState extends State<HomePage> {
               SizedBox(width: 20,),
               Container(
                 padding: EdgeInsets.all(20),
-                child: Icon(Icons.favorite,color: Colors.red,),
+                child: Icon(Icons.favorite,color: Colors.red,size: 20,),
               )
             ],
           ),
